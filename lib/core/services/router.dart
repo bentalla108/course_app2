@@ -8,7 +8,7 @@ Route<dynamic> generateRoute(RouteSettings settings) {
       return _pagebuilder((_) => const OnBoardindScreen(), settings: settings);
     default:
       return _pagebuilder(
-        (p0) => const PageUnderConstruction(),
+        (_) => const PageUnderConstruction(),
         settings: settings,
       );
   }

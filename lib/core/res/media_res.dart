@@ -1,5 +1,5 @@
 class MediaRes {
-  const MediaRes._();
+  const MediaRes();
 
   static const _baseVector = 'assets/vectors';
   static const _baseImage = 'assets/images';

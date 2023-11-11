@@ -6,7 +6,9 @@ class Fonts {
 
 
 // Fonts Class Documentation
-// The Fonts class provides static constant values representing font names. These constants can be used in a Flutter application to maintain consistent typography and styling.
+// The Fonts class provides static constant values representing font names. 
+//These constants can be used in a Flutter application to maintain consistent
+// typography and styling.
 
 // Available Fonts
 // poppins
