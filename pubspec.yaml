@@ -37,12 +37,11 @@ dependencies:
   chewie: ^1.7.1
 
 dev_dependencies:
+  flutter_lints: ^2.0.0
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.0
-  very_good_analysis: ^5.1.0
-
   mocktail: ^1.0.1
+  very_good_analysis: ^5.1.0
 
 
 flutter:
